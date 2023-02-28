@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Tajawal', sans-serif;
+}
